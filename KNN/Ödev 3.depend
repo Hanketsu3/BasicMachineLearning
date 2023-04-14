@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652644498 source:c:\projeler\Ödev 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
